@@ -1,0 +1,3 @@
+user = ddris
+password = ddris
+url = jdbc:oracle:thin:@10.10.10.11:1521:DDSDB
